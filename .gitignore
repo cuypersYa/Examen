@@ -154,3 +154,5 @@ $RECYCLE.BIN/
 
 # Mac desktop service store files
 .DS_Store
+bugs-b-gone/bugs-b-gone/App_Data/aspnet-bugs-b-gone-20140404120412.mdf
+bugs-b-gone/bugs-b-gone/App_Data/aspnet-bugs-b-gone-20140404120412_log.ldf
